@@ -1,0 +1,22 @@
+body {
+        background-image: url("bacground.jpeg");
+        background-size: cover;
+        background-repeat: no-repeat;
+      }
+
+.Padding{
+     width: 100%;   
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid #fff;
+    outline: none;
+    background: transparent;
+    color: black;
+    
+      }
+
+      h3{
+        text-align: center;
+      }

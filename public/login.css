@@ -1,0 +1,56 @@
+body {
+    background-image: url("bacground.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .login-box .user-box input {
+    width: 100%;
+    padding: 10px 0;
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid #fff;
+    outline: none;  
+    background: transparent;
+  }
+
+  .login-box{
+    top: 120px;
+    position: relative;
+    left: -75px;
+    padding: 75px;
+    width: 800px;
+    background: rgba(0,0,0,.5);;
+    box-shadow: 0 20px 35px rgba(0,0,0,.6);
+    
+  }
+
+  h3{
+    text-align: center;
+    color: #fff;
+  }
+
+  .login-box .user-box label {
+    color: #fff;
+  }
+
+  .login-box .user-box input {
+    color: #fff;
+  }
+
+  .login-box form a {
+    position: relative;
+    display: inline-block;
+    padding: 10px 20px;
+    color: #03e9f4;
+    font-size: 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+    overflow: hidden;
+    transition: .5s;
+    margin-top: 40px;
+    letter-spacing: 4px
+  }
+  
